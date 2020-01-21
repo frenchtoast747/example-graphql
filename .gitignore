@@ -1,0 +1,31 @@
+# Mac OS X custom attribute files
+.DS_Store
+# Virtualenv
+.Python
+bin
+lib
+include
+env/
+venv/
+.cache/
+.idea/
+__pycache__/
+*.pyc
+test/**/*.cache
+*.iml
+build/
+dist/
+*.egg-info
+/log/
+.tox
+__pycache__
+_build/
+gunicorn-*
+.python-version
+docs/
+*.local.ini
+.pytest_cache/
+local/
+
+# VS Code specific files
+.vscode
